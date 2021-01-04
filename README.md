@@ -36,12 +36,12 @@ Previous paper could not recognize signal in  Low SNR value, hence we introduced
 ### Proposed Method
 ![Our Method](https://github.com/alexivaner/Deep-Learning-Based-Radio-Signal-Classification/raw/main/Submission/Final/Proposed%20Method.jpg)
 
-### Our Result 
-We could see that our result surpassed previous method a lot in Low SNR, from under 20% to more than 60%<br>
+### Our Result (Green Line)
+#### We could see that our result surpassed previous method a lot in Low SNR, from under 20% to more than 60%<br>
 ![Our Result](https://github.com/alexivaner/Deep-Learning-Based-Radio-Signal-Classification/raw/main/Submission/Final/Comparison%202.gif)<br>
 (We could see our result in green line surpassed baseline in Low SNR Signal) <br>
 <br>
-Comparison in Confussion Matrices:
+#### Comparison in Confussion Matrices:
 ![Our Result](https://github.com/alexivaner/Deep-Learning-Based-Radio-Signal-Classification/raw/main/Submission/Final/Comparison.gif)<br>
 
 ## How to Run
@@ -95,15 +95,15 @@ You could run the program by following example::<br>
 
 ## Reference
 <pre>
-T. J. O’Shea, T. Roy and T. C. Clancy, "Over-the-Air Deep Learning Based Radio Signal Classification," in IEEE Journal of Selected Topics in Signal Processing, vol. 12, no. 1, pp. 168-179, Feb. 2018, doi: 10.1109/JSTSP.2018.2797022.
+T. J. O’Shea, T. Roy and T. C. Clancy, "Over-the-Air Deep Learning Based Radio Signal Classification," in IEEE Journal of Selected Topics in Signal Processing, vol. 12, no. 1, pp. 168-179, Feb. 2018, doi: 10.1109/JSTSP.2018.2797022.<br>
 
-Harper, Clayton A., et al. "Enhanced Automatic Modulation Classification using Deep Convolutional Latent Space Pooling." ASILOMAR Conference on Signals, Systems, and Computers.  2020.
+Harper, Clayton A., et al. "Enhanced Automatic Modulation Classification using Deep Convolutional Latent Space Pooling." ASILOMAR Conference on Signals, Systems, and Computers.  2020. <br>
 
-Vaswani, A.; Shazeer, N.; Parmar, N.; Uszkoreit, J.; Jones, L.; Gomez, A. N.; Kaiser, Ł. & Polosukhin, I. (2017), Attention is all you need, in 'Advances in Neural Information Processing Systems' , pp. 5998--6008 .
+Vaswani, A.; Shazeer, N.; Parmar, N.; Uszkoreit, J.; Jones, L.; Gomez, A. N.; Kaiser, Ł. & Polosukhin, I. (2017), Attention is all you need, in 'Advances in Neural Information Processing Systems' , pp. 5998--6008 . <br>
 
-J. Uppal, M. Hegarty, W. Haftel, P. A. Sallee, H. Brown Cribbs and H. H. Huang, "High-Performance Deep Learning Classification for Radio Signals," 2019 53rd Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, USA, 2019, pp. 1026-1029, doi: 10.1109/IEEECONF44664.2019.9048897.
+J. Uppal, M. Hegarty, W. Haftel, P. A. Sallee, H. Brown Cribbs and H. H. Huang, "High-Performance Deep Learning Classification for Radio Signals," 2019 53rd Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, USA, 2019, pp. 1026-1029, doi: 10.1109/IEEECONF44664.2019.9048897. <br>
 
-S. Huang et al., "Automatic Modulation Classification Using Compressive Convolutional Neural Network," in IEEE Access, vol. 7, pp. 79636-79643, 2019, DOI: 10.1109/ACCESS.2019.2921988.
+S. Huang et al., "Automatic Modulation Classification Using Compressive Convolutional Neural Network," in IEEE Access, vol. 7, pp. 79636-79643, 2019, DOI: 10.1109/ACCESS.2019.2921988. <br>
 
-Huynh-The, Thien & Hua, Cam-Hao & Pham, Quoc-Viet & Kim, Dong-Seong. (2020). MCNet: An Efficient CNN Architecture for Robust Automatic Modulation Classification. IEEE Communications Letters. 24. 811-815. 10.1109/LCOMM.2020.2968030.
+Huynh-The, Thien & Hua, Cam-Hao & Pham, Quoc-Viet & Kim, Dong-Seong. (2020). MCNet: An Efficient CNN Architecture for Robust Automatic Modulation Classification. IEEE Communications Letters. 24. 811-815. 10.1109/LCOMM.2020.2968030. <br>
 </pre>
