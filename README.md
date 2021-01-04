@@ -34,15 +34,15 @@ Previous paper could not recognize signal in  Low SNR value, hence we introduced
 
 
 ### Proposed Method
-![Our Method](https://github.com/alexivaner/Deep-Learning-Based-Radio-Signal-Classification/raw/main/Submission/Final/Proposed%20Method.jpg)
+<img src="https://github.com/alexivaner/Deep-Learning-Based-Radio-Signal-Classification/raw/main/Submission/Final/Proposed%20Method.jpg" width="700"><br>
 
 ### Our Result (Green Line)
 #### We could see that our result surpassed previous method a lot in Low SNR, from under 20% to more than 60%<br>
-![Our Result](https://github.com/alexivaner/Deep-Learning-Based-Radio-Signal-Classification/raw/main/Submission/Final/Comparison%202.gif)<br>
-(We could see our result in green line surpassed baseline in Low SNR Signal) <br>
-<br>
+<img src="https://github.com/alexivaner/Deep-Learning-Based-Radio-Signal-Classification/raw/main/Submission/Final/Comparison%202.gif" width="600"><br>
+(We could see our result in green line surpassed baseline in Low SNR Signal) <br><br>
+
 #### Comparison in Confussion Matrices:
-![Our Result](https://github.com/alexivaner/Deep-Learning-Based-Radio-Signal-Classification/raw/main/Submission/Final/Comparison.gif)<br>
+<img src="https://github.com/alexivaner/Deep-Learning-Based-Radio-Signal-Classification/raw/main/Submission/Final/Comparison.gif" width="600"><br>
 
 # How to Run
 You could run the program by following steps::<br>
