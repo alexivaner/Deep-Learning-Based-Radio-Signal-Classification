@@ -24,14 +24,6 @@ The ability to classify signals is an important task that holds the opportunity 
 <img src="https://github.com/alexivaner/Deep-Learning-Based-Radio-Signal-Classification/raw/main/Submission/Final/challenges.jpg" width="800"><br>
 
 
-### Full Proposal
-Please download our full proposal here:<br>
-[Full Proposal](https://github.com/alexivaner/Deep-Learning-Based-Radio-Signal-Classification/raw/main/Submission/Proposal/Proposal_Team3_Farhan%20Tandia_Ivan%20Surya%20H.pdf)
-
-### Full Final Report
-Please download our full final report here:<br>
-[Full Report](https://github.com/alexivaner/Deep-Learning-Based-Radio-Signal-Classification/raw/main/Submission/Final/Final_Team13_Farhan%20Tandia_Ivan%20Surya%20H.pdf)
-
 # Highlight
 This is the improved code from previous project :<br>
 Paper ：[Over the Air Deep Learning Based Radio Signal Classification](https://arxiv.org/pdf/1712.04578.pdf)<br>
@@ -99,6 +91,16 @@ Our dataset is originally taken from DEEPSIG DATASET: RADIOML 2018.01A (NEW), if
  `jupyter notebook` <br>
 * Open "Classification-proposed-model-transformer-low.ipynb": <br>
 
+## Full Proposal
+Please download our full proposal here:<br>
+[Full Proposal](https://github.com/alexivaner/Deep-Learning-Based-Radio-Signal-Classification/raw/main/Submission/Proposal/Proposal_Team3_Farhan%20Tandia_Ivan%20Surya%20H.pdf)
+
+## Full Final Explanation Report
+Please download our full final report here:<br>
+[Full Report](https://github.com/alexivaner/Deep-Learning-Based-Radio-Signal-Classification/raw/main/Submission/Final/Final_Team13_Farhan%20Tandia_Ivan%20Surya%20H.pdf)
+
+## Disclaimer
+Please cite us as author and our GitHub, if you plan to use this as your next research or any paper.
 
 # Reference
 <pre>
