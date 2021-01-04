@@ -2,7 +2,7 @@
  Final Project for AI Wireless 2020 in National Chiao Tung University
  *Top final project in the course*
  
-## Collaborator
+## Contributors
 [Farhan Tandia](https://github.com/farhantandia)<br>
 [Ivan Surya Hutomo](https://github.com/alexivaner)<br>
  
@@ -17,7 +17,7 @@ The ability to classify signals is an important task that holds the opportunity 
 * Design a new deep learning architecture and try to get the comparable results in terms of accuracy with state of the art or even better.
 * Create End-to-end Deep Learning Model System (using only RAW signal).
 
-* 24 Kinds of signals * <br>
+**24 Kinds of signals** <br>
 '32PSK', '16APSK', '32QAM', 'FM', 'GMSK', '32APSK', 'OQPSK', '8ASK', 'BPSK', '8PSK', 'AM-SSB-SC', '4ASK', '16PSK', '64APSK', '128QAM', '128APSK','AM-DSB-SC', 'AM-SSB-WC', '64QAM', 'QPSK', '256QAM', 'AM-DSB-WC', 'OOK', '16QAM'
 
 # Challenges
@@ -60,8 +60,6 @@ Our dataset is originally taken from DEEPSIG DATASET: RADIOML 2018.01A (NEW), if
     │   ├── resnet_model_mix.h5
     │   ├── trafo_model.data-00000-of-00001
     │   ├── trafo_model.index
-    │   ├── ...
-    ├── <font color="#3465A4"><b>Trial</b></font>
     │   ├── ...
     ├── <font color="#3465A4"><b>ExtractDataset</b></font>
     │   ├── part0.h5
