@@ -27,7 +27,7 @@ Please download our full final report here:<br>
 [Full Report](https://github.com/alexivaner/Deep-Learning-Based-Radio-Signal-Classification/raw/main/Submission/Final/Final_Team13_Farhan%20Tandia_Ivan%20Surya%20H.pdf)
 
 ## Highlight
-This is the improved code from previous project :
+This is the improved code from previous project :<br>
 Paper ：[Over the Air Deep Learning Based Radio Signal Classification](https://arxiv.org/pdf/1712.04578.pdf)<br>
 Github ：[ResNet-for-Radio-Recognition](https://github.com/liuzhejun/ResNet-for-Radio-Recognition)<br>
 Previous paper could not recognize signal in  Low SNR value, hence we introduced new method that could also recognize Low SNR signal.
