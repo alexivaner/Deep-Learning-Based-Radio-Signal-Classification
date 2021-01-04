@@ -15,7 +15,7 @@ The ability to classify signals is an important task that holds the opportunity 
 * Design a new deep learning architecture and try to get the comparable results in terms of accuracy with state of the art or even better.
 * Create End-to-end Deep Learning Model System (using only RAW signal).
 
-#### 24 Kind of signal
+#### 24 Kinds of signals
  ['32PSK', '16APSK', '32QAM', 'FM', 'GMSK', '32APSK', 'OQPSK', '8ASK', 'BPSK', '8PSK', 'AM-SSB-SC', '4ASK', '16PSK', '64APSK', '128QAM', '128APSK','AM-DSB-SC', 'AM-SSB-WC', '64QAM', 'QPSK', '256QAM', 'AM-DSB-WC', 'OOK', '16QAM']
 
 ### Full Proposal
