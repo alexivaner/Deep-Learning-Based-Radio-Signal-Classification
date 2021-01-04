@@ -17,11 +17,11 @@ The ability to classify signals is an important task that holds the opportunity 
 * Design a new deep learning architecture and try to get the comparable results in terms of accuracy with state of the art or even better.
 * Create End-to-end Deep Learning Model System (using only RAW signal).
 
-### 24 Kinds of signals
+* 24 Kinds of signals * <br>
 '32PSK', '16APSK', '32QAM', 'FM', 'GMSK', '32APSK', 'OQPSK', '8ASK', 'BPSK', '8PSK', 'AM-SSB-SC', '4ASK', '16PSK', '64APSK', '128QAM', '128APSK','AM-DSB-SC', 'AM-SSB-WC', '64QAM', 'QPSK', '256QAM', 'AM-DSB-WC', 'OOK', '16QAM'
 
 # Challenges
-<img src="https://github.com/alexivaner/Deep-Learning-Based-Radio-Signal-Classification/raw/main/Submission/Final/challenges.jpg" width="700"><br>
+<img src="https://github.com/alexivaner/Deep-Learning-Based-Radio-Signal-Classification/raw/main/Submission/Final/challenges.jpg" width="800"><br>
 
 
 ### Full Proposal
@@ -59,6 +59,7 @@ You could run the program by following steps::<br>
 * Download weights [here](https://drive.google.com/drive/folders/1RIjrZaKJW8oCLbd5LANvTqemk8f-1uWK?usp=sharing) <br>
 * Extract all weights to "Submission" folder <br>
 * Download extracted dataset [here](https://drive.google.com/file/d/1gUPDlvPqCnb_C4k2h3st0JV9p_sSvaiI/view?usp=sharing)<br>
+Our dataset is originally taken from DEEPSIG DATASET: RADIOML 2018.01A (NEW), if you want to know more, you can click [here](https://www.deepsig.ai/datasets)<br>
 * Create new folder and name it "ExtractDataset", extract all the dataset and put on that folder, the folder structure will be like below:
   
 <pre>
