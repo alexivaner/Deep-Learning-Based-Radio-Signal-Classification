@@ -2,21 +2,21 @@
  Final Project for AI Wireless 2020 in National Chiao Tung University
  *Top final project in the course*
  
-### Collabotator
+# Collabotator
 [Farhan Tandia](https://github.com/farhantandia)<br>
 [Ivan Surya Hutomo](https://github.com/alexivaner)<br>
  
-## Abstract
+# Abstract
 The ability to classify signals is an important task that holds the opportunity for many different applications. Previously to classify the signal, we should decompose the signal using FT (Fourier Transform), SIFT, MFCC, or another handcrafting method using statistical modulation features. In the past five years, we have seen rapid disruption occurring based on the improved neural network architectures, algorithms, and optimization techniques collectively known as deep learning (DL). It turns out that state of the art deep learning methods can be applied to the same problem of signal classification and shows excellent results while completely avoiding the need for difficult handcrafted feature selection. In 2018, people use ResNet as a state of the art of computer vision to classify radio communication signals. But ResNet only still fail to distinguish signal with low SNR condition. They only work well on a signal with high SNR Conditions. After two years, deep learning already improved a lot and many methods have become the new state of the art that we could apply for radio signal classification. Hence, we propose a new state of the art method to better classifying radio-signal network that both works on a signal with low noise (High SNR) and signal with high noise (Low SNR). Our works even will work using only RAW signal without the need preprocessing or denoising the noisy signal.
 
 
-### Goals
+# Goals
 * Classify 24 kinds of signal and get higher accuracy in lower SNR value.
 * Design a new deep learning architecture and try to get the comparable results in terms of accuracy with state of the art or even better.
 * Create End-to-end Deep Learning Model System (using only RAW signal).
 
-#### 24 Kinds of signals
- ['32PSK', '16APSK', '32QAM', 'FM', 'GMSK', '32APSK', 'OQPSK', '8ASK', 'BPSK', '8PSK', 'AM-SSB-SC', '4ASK', '16PSK', '64APSK', '128QAM', '128APSK','AM-DSB-SC', 'AM-SSB-WC', '64QAM', 'QPSK', '256QAM', 'AM-DSB-WC', 'OOK', '16QAM']
+### 24 Kinds of signals
+'32PSK', '16APSK', '32QAM', 'FM', 'GMSK', '32APSK', 'OQPSK', '8ASK', 'BPSK', '8PSK', 'AM-SSB-SC', '4ASK', '16PSK', '64APSK', '128QAM', '128APSK','AM-DSB-SC', 'AM-SSB-WC', '64QAM', 'QPSK', '256QAM', 'AM-DSB-WC', 'OOK', '16QAM'
 
 ### Full Proposal
 Please download our full proposal here:<br>
@@ -26,7 +26,7 @@ Please download our full proposal here:<br>
 Please download our full final report here:<br>
 [Full Report](https://github.com/alexivaner/Deep-Learning-Based-Radio-Signal-Classification/raw/main/Submission/Final/Final_Team13_Farhan%20Tandia_Ivan%20Surya%20H.pdf)
 
-## Highlight
+# Highlight
 This is the improved code from previous project :<br>
 Paper ：[Over the Air Deep Learning Based Radio Signal Classification](https://arxiv.org/pdf/1712.04578.pdf)<br>
 Github ：[ResNet-for-Radio-Recognition](https://github.com/liuzhejun/ResNet-for-Radio-Recognition)<br>
@@ -44,7 +44,7 @@ Previous paper could not recognize signal in  Low SNR value, hence we introduced
 #### Comparison in Confussion Matrices:
 ![Our Result](https://github.com/alexivaner/Deep-Learning-Based-Radio-Signal-Classification/raw/main/Submission/Final/Comparison.gif)<br>
 
-## How to Run
+# How to Run
 You could run the program by following steps::<br>
 ### Clone the repository:<br>
  `git clone https://github.com/alexivaner/Deep-Learning-Based-Radio-Signal-Classification.git` <br><br>
@@ -93,7 +93,7 @@ You could run the program by following steps::<br>
 * Open "Classification-proposed-model-transformer-low.ipynb": <br>
 
 
-## Reference
+# Reference
 <pre>
 T. J. O’Shea, T. Roy and T. C. Clancy, "Over-the-Air Deep Learning Based Radio Signal Classification," in IEEE Journal of Selected Topics in Signal Processing, vol. 12, no. 1, pp. 168-179, Feb. 2018, doi: 10.1109/JSTSP.2018.2797022.<br>
 
