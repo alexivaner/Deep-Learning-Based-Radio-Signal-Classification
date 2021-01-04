@@ -2,7 +2,7 @@
  Final Project for AI Wireless 2020 in National Chiao Tung University
  *Top final project in the course*
  
-## Collabotator
+## Collaborator
 [Farhan Tandia](https://github.com/farhantandia)<br>
 [Ivan Surya Hutomo](https://github.com/alexivaner)<br>
  
