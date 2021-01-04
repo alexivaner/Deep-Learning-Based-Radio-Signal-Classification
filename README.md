@@ -61,8 +61,6 @@ Our dataset is originally taken from DEEPSIG DATASET: RADIOML 2018.01A (NEW), if
     │   ├── trafo_model.data-00000-of-00001
     │   ├── trafo_model.index
     │   ├── ...
-    ├── <font color="#3465A4"><b>Trial</b></font>
-    │   ├── ...
     ├── <font color="#3465A4"><b>ExtractDataset</b></font>
     │   ├── part0.h5
     │   ├── part1.h5
