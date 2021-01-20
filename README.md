@@ -1,7 +1,9 @@
 # Enhanced Low SNR Radio Signal Classification using Deep Learning
  Final Project for AI Wireless 2020 in National Chiao Tung University<br>
- *Top final project in the course*
+ *Top final project in the AI Wireless 2020 NCTU (Fall 2020)*
  
+ <img src="https://github.com/alexivaner/Deep-Learning-Based-Radio-Signal-Classification/raw/main/Submission/Final/Comparison%202.gif" width="800"><br><br>
+
 ## Contributors
 [Farhan Tandia](https://github.com/farhantandia)<br>
 [Ivan Surya Hutomo](https://github.com/alexivaner)<br>
