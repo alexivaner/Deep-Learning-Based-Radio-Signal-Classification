@@ -50,10 +50,11 @@ You could run the program by following steps::<br>
  `git clone https://github.com/alexivaner/Deep-Learning-Based-Radio-Signal-Classification.git` <br><br>
  
 ### Download the Weight and Dataset:
-* Download weights [here](https://drive.google.com/drive/folders/1RIjrZaKJW8oCLbd5LANvTqemk8f-1uWK?usp=sharing) <br>
+* Download weights [here](https://drive.google.com/drive/folders/1DvPHuf3y23GdOC1kufFrPg-aZDk2fWi_?usp=sharing) <br>
 * Extract all weights to "Submission" folder <br>
 * Download extracted dataset [here](https://drive.google.com/file/d/1gUPDlvPqCnb_C4k2h3st0JV9p_sSvaiI/view?usp=sharing)<br>
 Our dataset is originally taken from DEEPSIG DATASET: RADIOML 2018.01A (NEW), if you want to know more, you can click [here](https://www.deepsig.ai/datasets)<br>
+and you can extract the dataset using extract_dataset.ipnyb
 * Create new folder and name it "ExtractDataset", extract all the dataset and put on that folder, the folder structure will be like below:
   
 <pre>
